@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![HRex](https://visitor-badge.glitch.me/badge?page_id=HRex39)  
 
-Hi, I'm HuangChenrui, student at BIT, majoring in Automatic Control.  
+Hi, I'm HuangChenrui, a student at **Beijing Institude of Technology(BIT)**, majoring in **Automatic Control**.  
 
 - 📫 How to reach me: hcr2077@outlook.com
 - 🌱 My CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
