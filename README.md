@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ![HRex](https://visitor-badge.glitch.me/badge?page_id=HRex39)  
 
 * 🏛️ Undergraduate student of [Beijing Institude of Technology(BIT)](https://bit.edu.cn/), majoring in **Automatic Control**.
-<!--* 🔍 Working in [SAIC-GM-PATAC](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer-->
-<!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 * 📫 How to reach me: hcr2077@outlook.com
 * 🌱 My CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
+<!--* 🔍 Working in [SAIC-GM-PATAC](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer-->
+<!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 
 
 <!--table-->
