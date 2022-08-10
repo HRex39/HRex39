@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![HRex](https://visitor-badge.glitch.me/badge?page_id=HRex39)  
 
 * 🏛️ Undergraduate student of [Beijing Institude of Technology(BIT)](https://bit.edu.cn/), majoring in **Automatic Control**.
+* 🔍 Working in [PATAC](http://www.patac.com.cn/), Active Safety Calibration & Performance Development Engineer, ISSEC  
 * 📫 How to reach me: hcr2077@outlook.com
 * 🌱 My CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
-<!--* 🔍 Working in [SAIC-GM-PATAC](https://pingcap.com/zh/) , [R&D Group](https://github.com/pingcap), Security Engineer-->
 <!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 
 
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/markdown-48ac98.svg?&style=for-the-badge&logo=markdown&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/PATAC-007ACC.svg?&style=for-the-badge&logo=generalmotors&logoColor=white">
     </samp>
     <br>
 </p><p align="right"><strong><samp></samp></strong></p>
