@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   Tomorrow is another day.
 </p>
 
-![HRex](https://visitor-badge.glitch.me/badge?page_id=HRex39)  
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHRex39%2FHRex39%2F&label=visitors%20today&countColor=%23f0b354&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHRex39%2FHRex39%2F&label=visitors%20today&countColor=%23f0b354)
 
 * 🏛️ Undergraduate student of [Beijing Institude of Technology(BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
 * 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), Active Safety Calibration & Performance Development Engineer, ISSEC  
