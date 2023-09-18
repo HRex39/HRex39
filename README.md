@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHRex39%2FHRex39%2F&label=visitors%20today&countColor=%23f0b354)
 
-* 🏛️ Undergraduate student of [Beijing Institude of Technology(BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
-* 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), Active Safety Calibration & Performance Development Engineer, ISSEC  
-* 📫 How to reach me: hcr2077@outlook.com
-* 🌱 My CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
+* 2018-2022 🏛️ Undergraduate student of [Beijing Institude of Technology(BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
+* 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), Active Safety Calibration & Performance Development Engineer, ISSEC  
+* 📫 hcr2077@outlook.com
+* 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
 <!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 
 
