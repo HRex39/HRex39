@@ -28,21 +28,22 @@ Here are some ideas to get you started:
 
 <!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 
-
 <!--table-->
 <div align="center">
 <table border="0">
-<td>
+<tr>
+<td style="width: 50%;">
 
 ![info](https://github-readme-stats.vercel.app/api?username=HRex39&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=&bg_color=00000000)
 
 </td>
   
-<td>
+<td style="width: 50%;">
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRex39&theme=&layout=compact&hide_border=true&bg_color=00000000)
 
 </td>
+</tr>
 </table>
 </div>
 <!--table end-->
