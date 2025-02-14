@@ -19,7 +19,13 @@ Here are some ideas to get you started:
   Tomorrow is another day.
 </p>
 
-<img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHRex39%2FHRex39%2F&label=visitors%20today&countColor=%23f0b354" alt="Visitors">
+<div align="left">
+  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHRex39%2FHRex39%2F&label=visitors%20today&countColor=%23f0b354" alt="Visitors">
+  <a href="https://github.com/hREX39">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50">
+  </a>
+  <span style="font-size:x-small; color:gray;">Click the icon to visit my GitHub profile!</span>
+</div>
 
 * 2018-2022 🏛️ Undergraduate student of [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
 * 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), Active Safety Calibration & Performance Development Engineer, ISSEC  
