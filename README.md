@@ -28,7 +28,38 @@ Here are some ideas to get you started:
 </div>
 
 * 2018-2022 🏛️ Undergraduate student of [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
-* 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), Active Safety Calibration & Performance Development Engineer, ISSEC  
+* 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087).
+  <details>
+    <summary>Active Safety Calibration & Performance Development Engineer, ISSEC</summary>
+    <ul>
+      <li><b>L2+ Perception Requirements Definition & Interface Coordination</b>
+        <ul>
+          <li>Defining L2+ perception requirements</li>
+          <li>Interface coordination</li>
+        </ul>
+      </li>
+      <li><b>L2 Longitudinal Algorithm Development</b>
+        <ul>
+          <li>ACC (Adaptive Cruise Control)</li>
+          <li>TS (Target Selection)</li>
+          <li>AEB (Automatic Emergency Braking)</li>
+        </ul>
+      </li>
+      <li><b>AES Feature Development</b>
+        <ul>
+          <li>Developing AES (Automated Emergency Steering)</li>
+        </ul>
+      </li>
+      <li><b>Intelligent Driving Toolchain Development</b>
+      </li>
+      <li><b>Projects & Responsibilities</b>
+        <ul>
+          <li>Lacrosse ADAS PM & Lead Calibrator</li>
+          <li>ADAS Domain Controller HIL & SIL Build</li>
+        </ul>
+      </li>
+    </ul>
+  </details>
 * 📫 hcr2077@outlook.com
 * 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
 
