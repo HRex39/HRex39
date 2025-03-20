@@ -30,36 +30,33 @@ Here are some ideas to get you started:
 * 2018-2022 🏛️ Undergraduate student of [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
 * 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087).
   <details>
-    <summary>Active Safety Calibration & Performance Development Engineer, ISSEC</summary>
+    <summary>Active Safety System Development and Control Integration Engineer, ISSEC</summary>
     <ul>
-      <li><b>L2+ Perception Requirements Definition & Interface Coordination</b>
+      <li><b>L2+ Perception Requirements Definition and Integration</b>
         <ul>
-          <li>Defining L2+ perception requirements</li>
-          <li>Interface coordination</li>
+          <li>Defined and integrated L2+ perception requirements</li>
+          <li>Delivered L2+ Controller A-Core and M-Core Integration Release</li>
         </ul>
       </li>
       <li><b>L2 Longitudinal Algorithm Development</b>
         <ul>
-          <li>ACC (Adaptive Cruise Control)</li>
-          <li>TS (Target Selection)</li>
-          <li>AEB (Automatic Emergency Braking)</li>
+          <li>Developed Adaptive Cruise Control (ACC)</li>
+          <li>Enhanced Target Selection (TS)</li>
+          <li>Implemented Automatic Emergency Braking (AEB)</li>
+          <li>Designed Automated Emergency Steering (AES) features</li>
         </ul>
       </li>
-      <li><b>AES Feature Development</b>
-        <ul>
-          <li>Developing AES (Automated Emergency Steering)</li>
-        </ul>
-      </li>
-      <li><b>Intelligent Driving Toolchain Development</b>
-      </li>
+      <li><b>Intelligent Driving Toolchain Development</b></li>
       <li><b>Projects & Responsibilities</b>
         <ul>
-          <li>Lacrosse ADAS PM & Lead Calibrator</li>
-          <li>ADAS Domain Controller HIL & SIL Build</li>
+          <li>Spearheaded ADAS project management and served as Lead Calibrator for Buick Lacrosse, optimizing advanced driver-assistance systems</li>
+          <li>Developed and refined longitudinal control algorithms for Buick GL8, focusing on target selection, safety, and driving comfort</li>
+          <li>Constructed and validated HIL & SIL frameworks for ADAS domain controller development</li>
         </ul>
       </li>
     </ul>
-  </details>
+</details>
+
 * 📫 hcr2077@outlook.com
 * 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
 
