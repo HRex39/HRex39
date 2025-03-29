@@ -57,8 +57,8 @@ Here are some ideas to get you started:
     </ul>
   </details>
 
-* 📫 hcr2077@outlook.com
-* 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)
+* 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)  
+* 📫 **Contact me:** [hcr2077@outlook.com](mailto:hcr2077@outlook.com)  
 
 <!--* 🌟 Personal Website: [https://xiabee.cn](https://xiabee.cn)-->
 
