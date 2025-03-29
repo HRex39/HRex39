@@ -88,8 +88,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=black" alt="C">
       <img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/markdown-48ac98.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/matlab-d95319.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Matlab">
+      <img src="https://img.shields.io/badge/CLion-0A7BBB.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" alt="CLion">
       <img src="https://img.shields.io/badge/PATAC-007ACC.svg?&style=for-the-badge&logo=generalmotors&logoColor=white" alt="PATAC">
     </samp>
     <br>
