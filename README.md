@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 * 2018-2022 🏛️ Undergraduate student of [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
 * 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087).
   <details>
-    <summary>Active Safety System Development and Control Integration Engineer, ISSEC</summary>
+    <summary>
+      Active Safety System Development and Control Integration Engineer, ISSEC  <span style="font-size:x-small; color:gray;">(View Detailed Here)</span>
+    </summary>
     <ul>
       <li><b>L2+ Perception Requirements Definition and Integration</b>
         <ul>
