@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 </div>
 
 * 2018-2022 🏛️ Undergraduate student of [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), majoring in **Automatic Control**.
-* 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087).
+* 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), R&D Center of [SAIC-GM](https://www.saic-gm.com/www/#/).
   <details>
     <summary>
-      Active Safety System Development and Control Integration Engineer, ISSEC  <span style="font-size:x-small; color:gray;">(View Detailed Here)</span>
+      2022/8 - 2026/3 --> Active Safety System Development and Control Integration Engineer <span style="font-size:x-small; color:gray;">(View Detailed Here)</span>
     </summary>
     <ul>
       <li><b>L2+ Perception Requirements Definition and Integration</b>
@@ -57,6 +57,12 @@ Here are some ideas to get you started:
         </ul>
       </li>
     </ul>
+  </details>
+
+  <details>
+    <summary>
+      2026/3 - Now --> Intelligent Driving System Engineer  <span style="font-size:x-small; color:gray;"></span>
+    </summary>
   </details>
 
 * 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)  
