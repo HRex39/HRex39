@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * 2022-Now 🔍 Working in [PATAC](http://www.patac.com.cn/EN/index.html?v=10087), R&D Center of [SAIC-GM](https://www.saic-gm.com/www/#/).
   <details>
     <summary>
-      2022/8 - 2026/3 --> Active Safety System Development and Control Integration Engineer <span style="font-size:x-small; color:gray;">(View Detailed Here)</span>
+      2022/8 - 2026/3 --> Active Safety System Development and Control Integration Engineer <span style="font-size:x-small; color:gray;"></span>
     </summary>
     <ul>
       <li><b>L2+ Perception Requirements Definition and Integration</b>
