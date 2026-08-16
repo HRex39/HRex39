@@ -63,6 +63,14 @@ Here are some ideas to get you started:
     <summary>
       2026/3 - Now --> Intelligent Driving System Engineer  <span style="font-size:x-small; color:gray;"></span>
     </summary>
+    <ul>
+      <li><b>2026/9 L2 Mass Production Launch</b>
+        <ul>
+          <li>Delivered J6B chip solution for Cadillac XT5 (PHEV & ICE)</li>
+          <li>Delivered J6B chip solution for Buick Lacrosse (ICE)</li>
+        </ul>
+      </li>
+    </ul>
   </details>
 
 * 🌱 CSDN blog: [HRex39](https://blog.csdn.net/weixin_47047999?spm=1000.2115.3001.5343)  
